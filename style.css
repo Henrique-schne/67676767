@@ -1,10 +1,10 @@
 body{
- background-color: rgb(181, 231, 229);
+ background-color: rgb(12, 148, 0);
  text-align: center;
 }
 h1 {
     font-style: italic;
-    color: rgb(236, 9, 46);
+    color: rgb(247, 242, 0);
     font-size: larger;
 }
 h2 {
@@ -20,8 +20,8 @@ h2 {
 }
 .lista {
     text-align: left;
-    color: rgba(250, 213, 91, 0.598);
+    color: rgb(2, 196, 255);
 }
 .pizza {
-    color: rgb(57, 92, 100);
+    color: rgb(16, 134, 0);
 }
